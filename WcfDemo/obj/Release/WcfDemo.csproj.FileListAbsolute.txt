@@ -1,0 +1,6 @@
+C:\Others\Others\WCFSamples\WcfDemo\WcfDemo\bin\WcfDemo.dll.config
+C:\Others\Others\WCFSamples\WcfDemo\WcfDemo\bin\WcfDemo.dll
+C:\Others\Others\WCFSamples\WcfDemo\WcfDemo\bin\WcfDemo.pdb
+C:\Others\Others\WCFSamples\WcfDemo\WcfDemo\obj\Release\WcfDemo.dll
+C:\Others\Others\WCFSamples\WcfDemo\WcfDemo\obj\Release\WcfDemo.pdb
+C:\Others\Others\WCFSamples\WcfDemo\WcfDemo\obj\Release\WcfDemo.csprojResolveAssemblyReference.cache
